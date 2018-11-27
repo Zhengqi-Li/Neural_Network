@@ -1,6 +1,6 @@
 # Neural_Network
 神经网络学习资料
-* 1. PyTorch 中的张量 [Part 1 - Tensors in PyTorch-zh.ipynb]
+* 1. PyTorch 中的张量
 * 2. PyTorch 中的神经网络
 * 3. 训练神经网络
 * 4. Fashion-MNIST 练习
@@ -11,4 +11,4 @@
 
 
 
-[Part 1 - Tensors in PyTorch-zh.ipynb]:https://github.com/Zhengqi-Li/Neural_Network/blob/master/Part%201%20-%20Tensors%20in%20PyTorch-zh.ipynb
+[PyTorch 中的张量]:https://github.com/Zhengqi-Li/Neural_Network/blob/master/Part%201%20-%20Tensors%20in%20PyTorch-zh.ipynb
